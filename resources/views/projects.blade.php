@@ -14,10 +14,12 @@
                         <div class="card-body p-0">
                             <div class="d-flex align-items-center">
                                 <div class="p-5">
-                                    <h2 class="fw-bolder">Project Name 1</h2>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius at enim eum illum
-                                        aperiam placeat esse? Mollitia omnis minima saepe recusandae libero, iste ad
-                                        asperiores! Explicabo commodi quo itaque! Ipsam!</p>
+                                    <h2 class="fw-bolder">E-commerce</h2>
+                                    <p>Developed an e-commerce platform using Django, featuring user authentication,
+                                        product catalog, and secure payment integration.
+                                        Implemented responsive design for seamless mobile and desktop experiences,
+                                        and incorporated an intuitive admin dashboard for managing orders and inventory.
+                                        Optimized performance with caching and efficient database queries.</p>
                                 </div>
                                 <img class="img-fluid" src="https://dummyimage.com/300x400/343a40/6c757d" alt="..." />
                             </div>
@@ -28,10 +30,11 @@
                         <div class="card-body p-0">
                             <div class="d-flex align-items-center">
                                 <div class="p-5">
-                                    <h2 class="fw-bolder">Project Name 2</h2>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius at enim eum illum
-                                        aperiam placeat esse? Mollitia omnis minima saepe recusandae libero, iste ad
-                                        asperiores! Explicabo commodi quo itaque! Ipsam!</p>
+                                    <h2 class="fw-bolder">help the blind in store </h2>
+                                    <p>An AI project for helping blind in store , to prevent the boxes and ladder and
+                                        persons ,
+                                        build using tensorflow , numpy , sickit learn packages
+                                    </p>
                                 </div>
                                 <img class="img-fluid" src="https://dummyimage.com/300x400/343a40/6c757d" alt="..." />
                             </div>
